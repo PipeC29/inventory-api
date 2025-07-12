@@ -325,13 +325,8 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## 👥 Autor
 
-- **Equipo de Desarrollo** - [GitHub](https://github.com/tu-usuario)
+- **PipeC29** - [GitHub](https://github.com/PipeC29/)
 
-## 🙏 Agradecimientos
-
-- Spring Boot Team
-- Comunidad de desarrolladores Java
-- Contribuidores del proyecto
 
 ---
 
